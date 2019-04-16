@@ -1,5 +1,10 @@
 # Modeling Dojo: Contributing to Custom Widgets
 
+### Learning Objectives:
+
+* Understand and adhere to the github workflow (fork/clone/commit/push/pull-request)
+* Be able to contribute to an existing custom widget
+
 ### Instructions:
 
 1. Fork this repository
@@ -14,3 +19,7 @@
 5. Commit your changes
 6. Push your commit to your fork
 7. Create a Pull Request to have your changes merged into the existing widget
+
+### More Resources:
+
+* [Learning Path for Intro to Custom Widgets](https://gettingstarted.mendixcloud.com/link/path/45)
